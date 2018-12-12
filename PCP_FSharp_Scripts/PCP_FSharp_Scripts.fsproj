@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Script1.fsx" />
+    <None Include="Lamda2.fsx" />
+    <None Include="Lamda.fsx" />
+    <None Include="Match.fsx" />
     <None Include="Fibonacci2.fsx" />
     <None Include="CompExpressionSimple.fsx" />
     <None Include="Fibonacci.fsx" />
