@@ -5,8 +5,6 @@
                         oder synchron eine Message übergeben. Diese wird dann via Aktor ausgewertet.
 *)
 
-open System
-
 let mailbox =
     MailboxProcessor.Start(fun mb ->
         let rec loop x =                                                // Definiere "loop" explizit als rekursive Funktion (Scope!)

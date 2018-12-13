@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="AktorTwoWayExample.fsx" />
     <None Include="AktorSimpleModel.fsx" />
     <None Include="AsyncExample.fsx" />
     <None Include="Lamda2.fsx" />
