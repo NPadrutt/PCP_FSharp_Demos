@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Presentation\F-Sharp-Man.jpg" />
     <None Include="AktorTwoWayExample.fsx" />
     <None Include="AktorSimpleModel.fsx" />
     <None Include="AsyncExample.fsx" />
